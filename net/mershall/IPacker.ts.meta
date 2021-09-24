@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "2d6e4023-f2d2-414c-899d-3b72c01d7618",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/net/mershall/IPacker.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

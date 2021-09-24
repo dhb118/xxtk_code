@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "72963077-1091-4afb-bcfd-be039662d631",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/net/USocket.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

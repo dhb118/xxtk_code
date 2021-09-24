@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "f7f3c3c6-bc0e-47d4-b3ef-7f2c5ac2dc6f",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/net/connector/NormalConnector.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

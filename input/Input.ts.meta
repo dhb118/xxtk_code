@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "f0350280-11c7-469e-b015-23d28f53b9f8",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/input/Input.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

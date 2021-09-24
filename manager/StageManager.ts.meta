@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "8c64a198-1078-446b-bb2f-250687cec3ff",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/manager/StageManager.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

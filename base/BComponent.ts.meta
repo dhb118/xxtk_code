@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "9ef8d275-d8c0-4d7c-aa07-77f8cecfa9d2",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/base/BComponent.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

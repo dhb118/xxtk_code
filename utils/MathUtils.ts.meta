@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "33767bc3-4057-4fe0-a9d8-36411c16debb",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/utils/MathUtils.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

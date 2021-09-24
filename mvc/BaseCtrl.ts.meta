@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "c3360ce8-913c-490d-84bd-dc8992639101",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/mvc/BaseCtrl.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

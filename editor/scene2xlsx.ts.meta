@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "bfd0f11a-b7c5-4d07-a77d-c08f33b7bc43",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/editor/scene2xlsx.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

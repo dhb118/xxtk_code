@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "a086d0a9-ba3c-426d-9368-9b7a5a1252c6",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/utils/RandomUtils.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

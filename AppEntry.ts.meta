@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "ffbca791-0e2b-428c-9216-50f54cbe65fd",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/AppEntry.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

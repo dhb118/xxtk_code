@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "f8a16781-5c16-4d7e-9c95-698a01d30ba9",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/net/Types.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

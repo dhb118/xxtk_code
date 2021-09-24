@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "f338bfde-4fdc-4d3f-9501-92de121c0969",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/base/BButton.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

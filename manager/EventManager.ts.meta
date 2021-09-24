@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "ac6c8a37-5551-445e-9df6-bf1a0ed0d119",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/manager/EventManager.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

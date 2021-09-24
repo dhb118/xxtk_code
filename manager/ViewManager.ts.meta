@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "74ba3209-5abc-4616-91c7-23f1af9f1354",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/manager/ViewManager.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

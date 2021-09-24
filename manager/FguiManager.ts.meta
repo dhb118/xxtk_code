@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "39648125-d27d-4a3d-916f-52587c797077",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/manager/FguiManager.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

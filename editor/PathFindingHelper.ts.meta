@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "e9964ab6-f1e1-4db3-9644-31b7f8de8c48",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/editor/PathFindingHelper.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

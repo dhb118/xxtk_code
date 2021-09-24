@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "78c7eb3b-075c-4362-9b73-7c3066e6194f",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/App.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

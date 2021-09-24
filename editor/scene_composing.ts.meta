@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "f5b6df2d-af71-473c-bf1a-a5d5b35feaf3",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/editor/scene_composing.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

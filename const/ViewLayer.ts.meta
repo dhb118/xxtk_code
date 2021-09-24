@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "c21e5a40-0acc-473b-84bf-263688704b37",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/const/ViewLayer.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

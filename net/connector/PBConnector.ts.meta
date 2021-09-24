@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "78bfb3f5-647e-40a6-bbf4-f50626538669",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/net/connector/PBConnector.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

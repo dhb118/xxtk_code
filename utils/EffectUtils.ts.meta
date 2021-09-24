@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "c63e77ab-405e-4520-8383-f2e1ea356ea1",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/utils/EffectUtils.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

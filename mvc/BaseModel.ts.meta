@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "f74a6b27-0e15-40e4-be85-f55dd40b781b",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/mvc/BaseModel.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

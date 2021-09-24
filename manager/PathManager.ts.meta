@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "49100da9-550c-42ea-ab1f-5784a287ba83",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/manager/PathManager.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

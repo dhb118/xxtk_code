@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "2d118991-a9b6-41cc-ba21-6a7055cf9ee8",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/input/InputAxis.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

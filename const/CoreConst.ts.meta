@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "74261dff-9b4e-4d66-9108-675ffe0bc385",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/const/CoreConst.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

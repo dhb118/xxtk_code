@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "008a70d7-c88d-46e1-89ba-3583c04d5dd3",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/manager/ModelManager.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

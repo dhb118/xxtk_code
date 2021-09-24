@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "268c9956-7fa3-4f2d-94c7-14fc3f88ea88",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/utils/ArrayUtils.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

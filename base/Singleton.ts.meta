@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "68422901-4236-42da-8fe6-1262b5d32820",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/base/Singleton.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

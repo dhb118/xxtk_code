@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "d6612456-ca95-4393-bd2f-06519e25bd14",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/net/Byte.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "f4db7b3a-4bb1-4548-978e-e1cbfe1d79c3",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/UIRoot.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

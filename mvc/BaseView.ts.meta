@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "08ba610f-8870-43fb-a063-58cb56a67b70",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/mvc/BaseView.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

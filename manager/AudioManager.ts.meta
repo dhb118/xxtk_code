@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "568f7008-cfee-467c-8a5a-08ec161b01c9",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/manager/AudioManager.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

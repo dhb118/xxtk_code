@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "cfdbd662-132c-42c1-9147-28aebef90169",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/script/core/net/MsgType.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}
